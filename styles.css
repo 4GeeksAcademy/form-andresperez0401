@@ -1,0 +1,8 @@
+.card > i {
+  color: white;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
